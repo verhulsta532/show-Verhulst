@@ -21,3 +21,17 @@ Link to Picture <https://static.wikia.nocookie.net/disney/images/0/04/Profile_-_
  >The future belongs to those who believe in the beauty of their dreams.
  *- Eleanor Roosevelt*
 
+ ---
+ # Code Snippet
+The code snippet I used is showing how to combine dictionaries in python.
+'''
+def merge_dicts(*dicts):
+  super_dict = {}
+  for dict in dicts:
+      for k, v in dict.items():
+          super_dict[k] = v
+
+ return super_dict
+
+ <https://code.pieces.app/collections/python>
+
