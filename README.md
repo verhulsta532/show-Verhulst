@@ -6,6 +6,9 @@ I like cheeseburgers because it just a **classic** and always my go to in the su
 
 ---
 ## Favorite Places
-1. Coffee Shop
-2. Fast Food
-3. Target
+1. McDonalds
+2. Sonic
+3. Dairy Queen
+* French fries
+* Tater tots
+* Chips
