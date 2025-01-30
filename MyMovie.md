@@ -14,3 +14,10 @@ Link to Picture <https://static.wikia.nocookie.net/disney/images/0/04/Profile_-_
 | Celia Jae | She would also be a good fit because she is a martial artist and singer. She also know for her roles as being an fighter. | 39 |
 | Arden Cho | She is an actress and singer. She is known for her role played in Teen Wolf | 39 |
 
+---
+>The greatest glory in living lies not in never falling, but in rising every time we fall. 
+ *- Nelson Mandela*
+
+ >The future belongs to those who believe in the beauty of their dreams.
+ *- Eleanor Roosevelt*
+
