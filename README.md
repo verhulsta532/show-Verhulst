@@ -13,4 +13,4 @@ I like cheeseburgers because it just a **classic** and always my go to in the su
 * Tater tots
 * Chips
 
-Link to MyMovie <C:\Users\s548114\OneDrive - nwmissouri.edu\Documents\webapps-repos\show-Verhulst\MyMovie.md>
+Link to MyMovie <https://github.com/verhulsta532/show-Verhulst/blob/798a22be13f6d6d1e48f5a4dcaacf3b050fbc1d7/MyMovie.md>
