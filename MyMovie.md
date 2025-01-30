@@ -24,7 +24,8 @@ Link to Picture <https://static.wikia.nocookie.net/disney/images/0/04/Profile_-_
  ---
  # Code Snippet
 The code snippet I used is showing how to combine dictionaries in python.
-'''
+
+```
 def merge_dicts(*dicts):
   super_dict = {}
   for dict in dicts:
@@ -32,6 +33,7 @@ def merge_dicts(*dicts):
           super_dict[k] = v
 
  return super_dict
+ ```
 
  <https://code.pieces.app/collections/python>
 
